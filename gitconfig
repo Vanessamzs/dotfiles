@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vanessa.ferrere@live.fr
+	name = vanessamazeas
